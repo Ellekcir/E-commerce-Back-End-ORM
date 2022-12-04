@@ -13,3 +13,9 @@ const sequelize = process.env.JAWSDB_URL
     });
 
 module.exports = sequelize;
+
+
+// // look up   
+//    dialectOptions: {
+//         decimalNumbers: true,
+//       },
