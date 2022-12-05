@@ -13,7 +13,12 @@
    
 ## Description
 
-A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+A mysql database and application backend for an e-commerce website. Built using MySQL2, Express, Sequelize and dotenv. 
+
+Please see below video for a demonstration of testing through Insomnia:
+
+
+[ Video Demonstration - Insomnia ]](../../../../../../C:/Users/Ricke/Documents/BootCamp/Object-Relational%20Mapping%20(ORM)%20Challenge%20E-commerce%20Back%20End/Develop/media/DEMO.webm)
 
 
 ## Table of Contents
@@ -37,6 +42,10 @@ A mysql database and application backend for an e-commerce site. Built using MyS
 
  
 ## Usage
+
+Please find code here:
+
+https://github.com/Ellekcir/E-commerce-Back-End-ORM
  
 Run the following command at the root of your project and answer the prompted questions:
 
